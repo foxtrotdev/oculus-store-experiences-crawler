@@ -42,3 +42,7 @@ npm start
 ```
 
 **Note: Fetching might take a while. Just wait till you get a JSON response about finished work.
+
+# Sample of  Telegram's channel
+
+![pictures/telegram_channel.jpg](pictures/telegram_channel.jpg)
