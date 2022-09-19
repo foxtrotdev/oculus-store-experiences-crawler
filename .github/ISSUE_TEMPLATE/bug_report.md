@@ -11,7 +11,7 @@ assignees: ''
 Describe your issue here.
 
 ### Your environment
-* Anything helpful that might help solve the issue.
+Anything helpful that might help solve the issue.
 
 ### Steps to reproduce
 Tell us how to reproduce this issue.
