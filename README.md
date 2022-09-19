@@ -41,7 +41,7 @@ npm start
 127.0.0.1:3000
 ```
 
-**Note: Fetching might take a while. Just wait till you get a JSON response about finished work.
+**Note:** Fetching might take a while. Just wait till you get a JSON response about finished work.
 
 # Sample of  Telegram's channel
 
